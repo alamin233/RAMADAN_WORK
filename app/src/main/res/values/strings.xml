@@ -1,0 +1,269 @@
+<resources>
+    <string name="app_name">RAMADAN</string>
+    <string-array name="ramadan_reslst">
+        <item>allah</item>
+        <item>alhamdu lillah</item>
+        <item>alam</item>
+        <item>akber</item>
+    </string-array>
+    <string-array name="ramadan_description">
+        <item>amin</item>
+        <item>rahim</item>
+        <item>gofur </item>
+        <item>karim</item>
+
+    </string-array>
+
+    <string name="rj_niat">
+       রোজার নিয়ত:\n
+
+نَوَيْتُ اَنْ اُصُوْمَ غَدًا مِّنْ شَهْرِ رَمْضَانَ\n
+        الْمُبَارَكِ فَرْضَا لَكَيَا اللهُ فَتَقَبَّل مِنِّى\n
+      اِنَّكَ اَنْتَ السَّمِيْعُ الْعَلِيْم\n
+
+আরবি নিয়ত :\n
+        নাওয়াইতু আন আছুম্মা গাদাম মিন শাহরি রমাজানাল মুবারাকি ফারদাল্লাকা,\n
+        ইয়া আল্লাহু ফাতাকাব্বাল মিন্নি ইন্নিকা আনতাস সামিউল আলিম।,\n
+    </string>
+    <string name="ifter_dowa">
+   ইফতারের সময় এই দোয়া পড়ে ইফতার করা:\n\n
+
+اَللَّهُمَّ لَكَ صُمْتُ وَ عَلَى رِزْقِكَ وَ\n
+        اَفْطَرْتُ بِرَحْمَتِكَ يَا اَرْحَمَ الرَّاحِيْمِيْن\n
+
+উচ্চারণ :\n
+        আল্লাহুম্মা লাকা ছুমতু ওয়া আলা রিযক্বিকা\n
+        ওয়া আফতারতু বিরাহমাতিকা ইয়া আরহামার রাহিমিন।\n
+
+    </string>
+    <string name="rojar_foroj">
+        রোজার ৩ ফরজ : \n\n
+
+১. নিয়ত করা\n
+২. সব ধরনের পানাহার থেকে বিরত থাকা\n
+৩. যৌন আচরণ থেকে বিরত থাকা।\n
+
+আবার অন্যভাবে বলা যায়\n
+        রোজার ফরজ ৬০ টি তা হলো,৩০ রোজার ৩০ নিয়ত করা ফরজ \n এবং ৩০ টি রোজা রাখা ও ফরজ।এভাবে বললে ফরজ হয় ৬০ টি।\n
+    </string>
+    <string name="rojer_wajib">
+        রমজানের ওয়াজিবসমূহ
+
+রমজানের সঙ্গে সম্পৃক্ত ওয়াজিব দুটি।\n
+        যথা: সদকাতুল ফিতর আদায় করা \n
+        ও ঈদের নামাজ পড়া। \n
+        ঈদের দিন সকালে যিনি নিসাব পরিমাণ সম্পদের মালিক বা অধিকারী থাকবেন,\n
+        তিনি তাঁর নিজের ও পরিবারের সব সদস্যের ফিতরা আদায় করবেন।\n
+        যদি কেউ নিসাব পরিমাণ সম্পদের মালিক না–ও থাকেন,\n
+        তবু সুন্নত বা নফল হিসেবে হলেও সদকাতুল ফিতরা প্রদান করা উত্তম।\n
+
+    </string>
+    <string name="fajael">
+        ১. এ মাসের সাথে ইসলামের একটি গুরুত্বপূর্ণ রুকনের সম্পর্ক রয়েছে ; আর তা হলে সিয়াম পালন।\n
+হজ যেমন জিলহজ মাসের সাথে সম্পর্কিত হওয়ার কারণে সে মাসের মর্যাদা বৃদ্ধি করেছে এমনি সিয়াম রমজান\n
+ মাসে হওয়ার কারণে এ মাসের মর্যাদা বেড়ে গেছে।\n
+ আল্লাহ রাব্বুল আলামিন বলেন : হে মোমিনগণ! তোমাদের উপর সিয়াম ফরজ করা হয়েছে, যেমনি ফরজ করা \n
+হয়েছে তোমাদের পূর্ববর্তীদের উপর-যাতে তোমরা মুত্তাকি হতে পার।\n
+ [সূরা বাকারা : ১৮৩] রাসূলে করিম সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন : ইসলাম যে পাঁচটি ভিত্তির উপর প্রতিষ্ঠিত তার\n
+ একটি হল সিয়াম পালন। এ সিয়াম জান্নাত লাভের একটি মাধ্যম ; যেমন হাদিসে এসেছে : যে আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান\n
+ আনল, সালাত কায়েম করল, জাকাত আদায় করল, সিয়াম পালন করল রমজান মাসে, আল্লাহ তাআলার কর্তব্য হল তাকে জান্নাতে\n
+ প্রবেশ করানো। [ বোখারি ] ২. রমজান হল কোরআন নাজিলের মাস। আল্লাহ রাব্বুল আলামিন বলেন : রমজান মাস,\n
+ এতে নাজিল হয়েছে আল-কোরআন, যা মানুষের দিশারি এবং স্পষ্ট নিদর্শন ও সত্যাসত্যের পার্থক্যকারী।\n
+[ সূরা বাকারা : ১৮৪ ] রমজান মাসে সপ্তম আকাশের লওহে মাহফুজ থেকে দুনিয়ার আকাশে বায়তুল ইজ্জতে \n
+পবিত্র আল-কোরআন একবারে নাজিল হয়েছে। সেখান হতে আবার রমজান মাসে অল্প অল্প করে নবী করিম সাল্লাল্লাহু\n
+ আলাইহি ওয়া সাল্লাম-এর প্রতি নাজিল হতে শুরু করে। কোরআন নাজিলের দুটি স্তরই রমজান মাসকে ধন্য করেছে। \n
+শুধু আল-কোরআনই নয় বরং ইবরাহিম আ.-এর সহিফা, তাওরাত, যবুর, ইঞ্জিল সহ সকল ঐশী গ্রন্থ এ মাসে অবতীর্ণ\n
+ হয়েছে বলে তাবরানী বর্ণিত একটি সহি হাদিসে উল্লেখ করা হয়েছে। (সহি আল-জামে) এ মাসে মানুষের হেদায়াত ও\n
+ আলোকবর্তিকা যেমন নাজিল হয়েছে তেমনি আল্লাহর রহমত হিসেবে এসেছে সিয়াম। তাই এ দুই নিয়ামতের শুকরিয়া \n
+আদায় করতে বেশি বেশি করে কোরআন তিলাওয়াত করা উচিত। প্রতি বছর রমজান মাসে জিবরাইল রাসূলুল্লাহ সাল্লাল্লাহু\n
+ আলাইহি ওয়া সাল্লাম-কে পূর্ণ কোরআন শোনাতেন এবং রাসূল সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম-ও তাকে পূর্ণ কোরআন শোনাতেন। \n
+আর জীবনের শেষ রমজানে আল্লাহর রাসূল দু বার পূর্ণ কোরআন তিলাওয়াত করেছেন। সহি মুসলিমের হাদিস দ্বারা এটা প্রমাণিত।\n
+    </string>
+    <string name="title_activity_ramadan_doa">RamadanDoa</string>
+
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_kalima_page1">kalima_page1</string>
+
+
+    <string name="kalimapart1">
+
+            "لآ اِلَهَ اِلّا اللّهُ مُحَمَّدٌ رَسُوُلالل\n"
+
+
+    </string>
+    <string name="kalimapart2">
+
+ "There is none worthy of worship except Allah and Muhammad is the Messenger of Allah.\n"
+    </string>
+    <string name="kalimapart3">
+
+        "Laaa Ilaaha Illa-llaahu Muhammadur- Rasoolu-llaah\n"
+
+    </string>
+
+    <string name="kalimapart4">
+        "/اَشْهَدُ اَنْ لَّآ اِلٰهَ اِلَّا اللهُ وَحْدَہٗ لَاشَرِيْكَ لَہٗ وَاَشْهَدُ اَنَّ مُحَمَّدًا عَبْدُهٗ وَرَسُولُہٗ‎"
+    </string>
+
+    <string name="Kalimapart5">
+       "Bear witness that there is none worthy of worship except Allah,"
+        "the One alone, without partner, and I bear witness that Muhammad is His servant and Messenger"
+    </string>
+
+    <string name="Kalimapart6">
+        "Ash-hadu Al-laaa Ilaaha Illa-llaahu Wahdahoo Laa Shareeka Lahoo"
+        "Wa-Ash-hadu Anna Muhammadan ‘Abduhoo Wa Rasooluhu."
+
+
+    </string>
+    <string name="kalimapart7">
+        "سُبْحَان اللهِ وَالْحَمْدُلِلّهِ وَلا إِلهَ إِلّااللّهُ وَاللّهُ أكْبَرُ وَلا حَوْلَ وَلاَ قُوَّةَ إِلَّا بِاللّهِ الْعَلِيِّ الْعَظِيْم‎"
+
+    </string>
+
+    <string name="Kalimapart8">
+        "Glory be to Allah and all praise be to Allah, there is none worthy of worship except Allah, and Allah is the Greatest.\n"
+        "There is no might or power except from Allah, the Exalted, the Great One.\n"
+
+    </string>
+
+    <string name="kalimapart9">
+        "Subhaana-llaahi Walhamdu Lillaahi Walaaa Ilaaha Illa-llaahu Wallaahu Akbar.\n"
+        "Walaa Hawla Walaa Quwwata Illaa Billaahi-l ‘Aliyyil ‘Azeem\n"
+    </string>
+
+    <string name="Kalimapart10">
+        "لَآ اِلٰهَ اِلَّا اللهُ وَحْدَهٗ لَا شَرِيْكَ لَهٗ لَهُ الْمُلْكُ وَ لَهُ"
+        "الْحَمْدُ يُحْىٖ وَ يُمِيْتُ وَ هُوَحَیٌّ لَّا يَمُوْتُ اَبَدًا اَبَدًاؕ ذُو"
+        "الْجَلَالِ وَالْاِكْرَامِؕ بِيَدِهِ الْخَيْرُؕ وَهُوَ عَلٰى كُلِّ شیْ ٍٔ قَدِیْر"ٌؕ"
+
+    </string>
+
+    <string name="Kalimapart11">
+        "There is none worthy of worship except Allah. He is alone and has no partner.\n"
+        To Him belongs the Kingdom and for Him is all praise. He gives life and causes death.\n"
+        In His hand is all good and He has power over everything.\n"
+
+    </string>
+
+    <string name="Kalimapart12">
+        "Laaa Ilaaha Illa-llaahu Wahdahoo Laa Shareeka-lahoo Lahu Mulku Walahu\n"
+        Hamdu Yuhyee Wayumeetu Wahuwa Hayyu Laa Yamootu Abadan Abada.\n"
+        Dhu Jalaali Wal Ikraam. Biyadihil Khair. Wahuwa Alaa Kulli Shai-’in Qadeer.\n"
+
+    </string>
+    <string name="Kalimapart13">
+
+"اَللّٰهُمَّ اِنِّیْٓ اَعُوْذُ بِكَ مِنْ اَنْ اُشْرِكَ بِكَ شَيْئًا وَّاَنَآ اَعْلَمُ بِهٖ وَ اَسْتَغْفِرُكَ لِمَا لَآ"
+        "اَعْلَمُ بِهٖ تُبْتُ عَنْهُ وَ تَبَرَّأْتُ مِنَ الْكُفْرِ وَ الشِّرْكِ وَ الْكِذْبِ وَ الْغِيْبَةِ وَ الْبِدْعَةِ وَ النَّمِيْمَةِ وَ الْفَوَاحِشِ و"َ
+        "الْبُهْتَانِ وَ الْمَعَاصِىْ كُلِِّهَا وَ اَسْلَمْتُ وَ اَقُوْلُ لَآ اِلٰهَ اِلَّا اللهُ مُحَمَّدٌ رَّسُوْلُ الله"ِؕ
+
+    </string>
+    <string name="Kalimapart14">
+        "O Allah! I seek refuge in You from that I should ascribe any partner with You knowingly.\n"
+        "I seek Your forgiveness for the sin of which I have no knowledge.\n"
+        "lying and backbiting, innovation and slander,\n"
+        "lewdness and abomination and all other acts of disobedience,\n"
+        "I submit to Your will.I believe and I declare that there is none worthy of\n"
+        "worship except Allah and Muhammad is the Messenger of Allah.\n"
+    </string>
+    <string name="Kalimapart15">
+        "Allaa-humma Inneee A’udhu-bika Min An Ushrika Bika Shay-awn Wa-ana A’lamu Bihee Wa-\n"
+        "astaghfiruka Limaa Laaa A’lamu Bihee Tubtu ‘Anhu Wata-barraatu Mina-l Kufri Wash-shirki Wal-kidhbi\n"
+        "Wal-gheebati Wal-bid’ati Wan-nameemati Wal-fawahishi Wal-buhtaani Wal-m’aasi Kulli-haa\n"
+        "Wa-Aslamtu Wa-aqoolu Laaa Ilaaha Illa-llaahu Muhammadu-r Rasoolu-llah\n"
+    </string>
+
+
+</resources>
